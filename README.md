@@ -1,6 +1,6 @@
 # ADM_HW5
 
-This GitHub repository was created to submit ADM's **[HomeWork_5]**("https://github.com/lucamaiano/ADM/tree/master/2022/Homework_5"). Work carried out by **group 13** formed by the following members:
+This GitHub repository was created to submit ADM's # **[HomeWork 5](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_5)**. Work carried out by **group 13** formed by the following members:
 
 - Laura Mignella : 1920520
 - Luca Mazzucco : 1997610
