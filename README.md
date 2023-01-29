@@ -4,8 +4,8 @@ GitHub repository created to submit **[HomeWork 5](https://github.com/lucamaiano
 
 Work carried out by **Group 13** consisting of the following members:
 
-- Laura Mignella : 1920520
-- Luca Mazzucco : 1997610
+-- Laura Mignella : 1920520
+-- Luca Mazzucco : 1997610
 --------------------------------------------
 ### Contents:
 
