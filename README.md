@@ -7,7 +7,7 @@ Work carried out by **Group 13** consisting of the following members:
 - Laura Mignella : 1920520
 - Luca Mazzucco : 1997610
 
-There are three files:
+### Contents:
 
 * The **main.ipynb** NoteBook which contains all the results on the research questions.\
 Here the **Backend** part is implemented
