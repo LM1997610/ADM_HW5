@@ -13,8 +13,8 @@ Work carried out by **Group 13** consisting of the following members:
 ### Contents:
 
 * The **HW_5.ipynb** NoteBook which contains all the results on the research questions.\
-Here is implemented the **Backend** part.
-* **module_HW5.py**  is the **Frontend Implementation**.
+Here is implemented the **BackEnd** part.
+* **module_HW5.py**  is the **FrontEnd Implementation**.
 * The **CommandLine_HW5.sh** file is the Command Line Question in .sh format.
 * **Algorithmic_Question.ipynb** is the answer to the Algorithmic Question.
 
