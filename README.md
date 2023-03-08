@@ -14,7 +14,7 @@ Work carried out by **Group 13** consisting of the following members:
 
 * The **HW_5.ipynb** NoteBook which contains all the results on the research questions.\
 Here is implemented the **BackEnd** part.\
-Note: GitHub does not allow displaying interactive tables from *itables*
+Note: GitHub does not allow displaying interactive tables from *itables* → Have a look here instead: [nbviewer](https://nbviewer.org/github/LM1997610/ADM_HW5/blob/main/HW_5.ipynb)
 
 * **module_HW5.py**  is the **FrontEnd Implementation**.
 
